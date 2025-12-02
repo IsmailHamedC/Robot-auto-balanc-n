@@ -8,25 +8,23 @@ Dentro de este repositorio se pueden encontrar distintas carpetas para entender 
 # Indice
 1.-[CAD](https://github.com/IsmailHamedC/Robot-auto-balanc-n/blob/main/README.md#1--2-cad-y-componentes)
 
-2.-[Componentes](https://github.com/IsmailHamedC/Robot-auto-balanc-n/tree/main/Componentes)
+2.- [Ensamble](https://github.com/IsmailHamedC/Robot-auto-balanc-n?tab=readme-ov-file#3-ensamble)
 
-3.- [Ensamble](https://github.com/IsmailHamedC/Robot-auto-balanc-n/blob/main/Ensamble.f3z)
+3.-[Diagrama electrónico robot balanín](https://github.com/IsmailHamedC/Robot-auto-balanc-n?tab=readme-ov-file#4-diagrama-electr%C3%B3nico)
 
-4.-[Diagrama electrónico robot balanín](https://github.com/IsmailHamedC/Robot-auto-balanc-n/blob/main/Componentes/Diagrama%20electronico%20robot%20balancin.png)
+4.-[Código Arduino](https://github.com/IsmailHamedC/Robot-auto-balanc-n?tab=readme-ov-file#5-c%C3%B3digo-arduino)
 
-5.-[Código Arduino](https://github.com/IsmailHamedC/Robot-auto-balanc-n/blob/main/C%C3%B3digo%20robot%20balanc%C3%ADn.ino)
-
-# 1 ; 2 CAD y Componentes
+# 1 CAD y Componentes
 En la carpeta [CAD](https://github.com/IsmailHamedC/Robot-auto-balanc-n/tree/main/CAD) se encuentran los archivos .f3d para la fabricación de elementos que aportan a la estructura del robot, mientras que en la carpeta [Componentes](https://github.com/IsmailHamedC/Robot-auto-balanc-n/tree/main/Componentes) se puede ver el listado de elementos electrónicos que permiten el control del robot.
 
-# 3 Ensamble
+# 2 Ensamble
 
 El archivo [Ensamble](https://github.com/IsmailHamedC/Robot-auto-balanc-n/blob/main/Ensamble.f3z) muestra en Fusion el ensamble de todos los componenentes electrónicos y estructurales que le dan la forma al robot balancín
 
-# 4 Diagrama electrónico
+# 3 Diagrama electrónico
 
-[Diagrama electrónico](https://github.com/IsmailHamedC/Robot-auto-balanc-n/blob/main/Componentes/Diagrama%20electronico%20robot%20balancin.png)
+![Diagrama electrónico](https://github.com/IsmailHamedC/Robot-auto-balanc-n/blob/main/Componentes/Diagrama%20electronico%20robot%20balancin.png)
 
-# 5 Código Arduino
+# 4 Código Arduino
 
 En [Código robot balancín](https://github.com/IsmailHamedC/Robot-auto-balanc-n/blob/main/C%C3%B3digo%20robot%20balanc%C3%ADn.ino) se puede encontrar el código que incluye las funciones para el movimiento de motores, identificación del sensor y controlador PID cuyas constantes fueron calibradas a Kp = 25; Ki = 2; Kd = 6
