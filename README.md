@@ -17,6 +17,7 @@ Dentro de este repositorio se pueden encontrar distintas carpetas para entender 
 # 1 CAD y Componentes
 En la carpeta [CAD](https://github.com/IsmailHamedC/Robot-auto-balanc-n/tree/main/CAD) se encuentran los archivos .f3d para la fabricación de elementos que aportan a la estructura del robot, mientras que en la carpeta [Componentes](https://github.com/IsmailHamedC/Robot-auto-balanc-n/tree/main/Componentes) se puede ver el listado de elementos electrónicos que permiten el control del robot.
 
+![Vista ISO](https://github.com/IsmailHamedC/Robot-auto-balanc-n/blob/main/Imagenes%20CAD/ISOOFRENTE.png)
 # 2 Ensamble
 
 El archivo [Ensamble](https://github.com/IsmailHamedC/Robot-auto-balanc-n/blob/main/Ensamble.f3z) muestra en Fusion el ensamble de todos los componenentes electrónicos y estructurales que le dan la forma al robot balancín
