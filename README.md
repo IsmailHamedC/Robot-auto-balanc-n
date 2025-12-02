@@ -6,13 +6,13 @@ Integrantes: Bruno Muñoz, Esteban Zamora, Ismail Hamed, Joaquín Roco, Tomás A
 Dentro de este repositorio se pueden encontrar distintas carpetas para entender la fabricación, ensamblaje y funcionamiento de nuestro robot balancín
 
 # Indice
-1.-[CAD](https://github.com/IsmailHamedC/Robot-auto-balanc-n/blob/main/README.md#1--2-cad-y-componentes)
+1.- CAD y Componentes
 
-2.- [Ensamble](https://github.com/IsmailHamedC/Robot-auto-balanc-n?tab=readme-ov-file#3-ensamble)
+2.- Ensamble
 
-3.-[Diagrama electrónico robot balanín](https://github.com/IsmailHamedC/Robot-auto-balanc-n?tab=readme-ov-file#4-diagrama-electr%C3%B3nico)
+3.-Diagrama electrónico robot balanín
 
-4.-[Código Arduino](https://github.com/IsmailHamedC/Robot-auto-balanc-n?tab=readme-ov-file#5-c%C3%B3digo-arduino)
+4.-Código Arduino
 
 # 1 CAD y Componentes
 En la carpeta [CAD](https://github.com/IsmailHamedC/Robot-auto-balanc-n/tree/main/CAD) se encuentran los archivos .f3d para la fabricación de elementos que aportan a la estructura del robot, mientras que en la carpeta [Componentes](https://github.com/IsmailHamedC/Robot-auto-balanc-n/tree/main/Componentes) se puede ver el listado de elementos electrónicos que permiten el control del robot.
